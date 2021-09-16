@@ -1,0 +1,38 @@
+{ "total": [{
+    "id": 1,
+    "image": "2nd.jpg",
+    "title": "Day 1 & 2",
+    "date": "9/5/2021",
+    "content": "I started learining by following an Arabic youtube course on here: <a href=\"https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw\">تعلم اطار عمل Vue.js</a> which focusing on the fundamentals of Vue.js framework. I spent hours watching tutorials and reading docs. <br>I'v learned about: <ul><li>directives >> v-for v-if v-model v-bind etc...</li> <li>Computed Properties</li> <li>Methods</li> <li>Properties</li> <li>Watch</li> <li>Components</li> And a bit more.."
+  }, {
+    "id": 2,
+    "image": "4th.jpg",
+    "title": "Day 3",
+    "date": "9/7/2021",
+    "content": "Today I started diving into making my own project. I installed all Vue project files and attachments  using command line interface (Vue CLI). I focused on creating a simple, responsive UI for the blog overview portion of the site."
+  }, {
+    "id": 3,
+    "image": "3rd.jpg",
+    "title": "Day 4",
+    "date": "9/8/2021",
+    "content": "I learned more about components and how to switch between the header components using Vue router. How to import and export files, How to make a new component. But then I got stuck with an error related to scss file and I couldn't solve it for too long. Then I discovered the official <a href=\"https://discord.gg/vue\">discord server</a> for Vue.js and people there helped me a lot, and saved me too much time."
+  }, {
+    "id": 4,
+    "image": "1st.png",
+    "title": "Day 5",
+    "date": "9/9/2021",
+    "content": "Now we want to get data (posts) from a data store.<br> There are different ways to do this task.<br> we can use firebase, Json, Vuex.<br> I used Json object because it is simple and suitable for small projects like mine."
+  }, {
+    "id": 5,
+    "image": "5th.jpg",
+    "title": "Day 6",
+    "date": "9/10/2021",
+    "content": "Now the one missing point is how to transfer data between components.<br> To be honest I was stuck for a long period trying to make this task. Seems like I should re-learn routing from different sources and yeah I found a one hour course in <a href=\"https://vueschool.io/\" >vue school</a> that explains vue routing very well.<br> After finishing the task, now when you click on any post preview from the posts list -believe it or not- this post details will appear to you! <br>This is a good news for me and the moderators of discord vue server because they will take a break from my stupid questions for a while."
+  }, {
+    "id": 6,
+    "image": "6th.jpg",
+    "title": "Day 7",
+    "date": "9/11/2021",
+    "content": "Alright. I basically just worked on the final touches of the blog. the styling required alot of work and adjustments to make some parts responsive and to make the user experience better. Now I'm uploading the project on github and then hosting it using Netlify (A free hosting platform). So you'd be able to see this useless, static, stupid website now, just kidding I am pretty happy with the progress that I’ve made these last 7 days and I look forward to digging deeper into this framework and making advanced projects using it."
+  }]
+}
